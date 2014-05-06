@@ -8,5 +8,6 @@ public class ClasseGitHub {
 	String merge;
 	String update;
 	String olha_nao_facil;
+	String olha_la_denovo;
 
 }
