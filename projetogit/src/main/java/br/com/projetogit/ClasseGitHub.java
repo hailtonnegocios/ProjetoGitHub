@@ -7,6 +7,6 @@ public class ClasseGitHub {
 	String pull;
 	String merge;
 	String update;
-	
+	String olha_nao_facil;
 
 }
