@@ -9,5 +9,6 @@ public class ClasseGitHub {
 	String update;
 	String olha_nao_facil;
 	String olha_la_denovo;
+	String outro;
 
 }
